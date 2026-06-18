@@ -40,8 +40,8 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jay-Rajankar-VIIT&theme=radical&hide_border=true" alt="Jay-Rajankar-VIIT GitHub Streak" />
-  <img src="https://streak-stats.demolab.com/?user=JayRajankar&theme=radical&hide_border=true" alt="JayRajankar GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-Rajankar-VIIT&theme=radical&hide_border=true" alt="Jay-Rajankar-VIIT GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayRajankar&theme=radical&hide_border=true" alt="JayRajankar GitHub Streak" />
 </div>
 <br/>
 <div align="center">
