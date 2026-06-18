@@ -35,15 +35,18 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jay-Rajankar-VIIT&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jay-Rajankar-VIIT&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jay-Rajankar-VIIT GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JayRajankar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="JayRajankar GitHub Stats" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-Rajankar-VIIT&theme=radical&hide_border=true" alt="Jay's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-Rajankar-VIIT&theme=radical&hide_border=true" alt="Jay-Rajankar-VIIT GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayRajankar&theme=radical&hide_border=true" alt="JayRajankar GitHub Streak" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Rajankar-VIIT&layout=compact&theme=radical&hide_border=true" alt="Jay's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Rajankar-VIIT&layout=compact&theme=radical&hide_border=true" alt="Jay-Rajankar-VIIT Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayRajankar&layout=compact&theme=radical&hide_border=true" alt="JayRajankar Top Languages" />
 </div>
 
 ---
